@@ -1,0 +1,676 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="14ced8f3-4a98-48e9-b345-580841ee6e97" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Project_SmartHome.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MACHINE LEARNING ALGORYTHMS/Reiforcement Learning/Project_SmartHome.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="1050" column="40" lean-forward="true" selection-start-line="1050" selection-start-column="40" selection-end-line="1050" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="feedback.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MACHINE LEARNING ALGORYTHMS/Reiforcement Learning/feedback.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="20">
+              <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="data_2.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MACHINE LEARNING ALGORYTHMS/Reiforcement Learning/data_2.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="20">
+              <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="data.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MACHINE LEARNING ALGORYTHMS/Reiforcement Learning/data.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="20">
+              <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Room2.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MACHINE LEARNING ALGORYTHMS/Reiforcement Learning/Room2.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="20">
+              <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BedRoom.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MACHINE LEARNING ALGORYTHMS/Reiforcement Learning/BedRoom.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-900" />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GeraDados.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MACHINE LEARNING ALGORYTHMS/Reiforcement Learning/GeraDados.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GeraDados_room2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MACHINE LEARNING ALGORYTHMS/Reiforcement Learning/GeraDados_room2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ChoosenIntervals.csv" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/MACHINE LEARNING ALGORYTHMS/Reiforcement Learning/ChoosenIntervals.csv">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="20">
+              <caret line="22" selection-start-line="22" selection-end-line="120" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>show</find>
+      <find>var</find>
+      <find>pa</find>
+      <find>pa_reward</find>
+      <find>total_reward</find>
+      <find>initial</find>
+      <find>numberDay</find>
+      <find>save</find>
+      <find>READCSV</find>
+      <find>numberday</find>
+      <find>num_da</find>
+      <find>total</find>
+      <find>total_episodes</find>
+      <find>xTimes</find>
+      <find>e</find>
+      <find>epochs</find>
+      <find>epoch</find>
+      <find>\n\n</find>
+      <find>writerow</find>
+      <find>initialnumber</find>
+      <find>readcsv</find>
+      <find>rooms</find>
+      <find>read</find>
+      <find>readc</find>
+      <find>episode</find>
+      <find>day</find>
+      <find>readCSV</find>
+      <find>num_days</find>
+      <find>episodes</find>
+      <find>iteration</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>\n</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/MACHINE LEARNING ALGORYTHMS/Reiforcement Learning/profiles.json" />
+        <option value="$PROJECT_DIR$/MACHINE LEARNING ALGORYTHMS/Reiforcement Learning/user_alexandre.json" />
+        <option value="$PROJECT_DIR$/MACHINE LEARNING ALGORYTHMS/Reiforcement Learning/profiles1.json" />
+        <option value="$PROJECT_DIR$/MACHINE LEARNING ALGORYTHMS/Reiforcement Learning/Ex1.json" />
+        <option value="$PROJECT_DIR$/MACHINE LEARNING ALGORYTHMS/Reiforcement Learning/Room2.csv" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+        <option value="$PROJECT_DIR$/MACHINE LEARNING ALGORYTHMS/Reiforcement Learning/data_2.json" />
+        <option value="$PROJECT_DIR$/MACHINE LEARNING ALGORYTHMS/Reiforcement Learning/data.json" />
+        <option value="$PROJECT_DIR$/MACHINE LEARNING ALGORYTHMS/Reiforcement Learning/BedRoom.csv" />
+        <option value="$PROJECT_DIR$/MACHINE LEARNING ALGORYTHMS/Reiforcement Learning/GeraDados.py" />
+        <option value="$PROJECT_DIR$/MACHINE LEARNING ALGORYTHMS/Reiforcement Learning/GeraDados_room2.py" />
+        <option value="$PROJECT_DIR$/MACHINE LEARNING ALGORYTHMS/Reiforcement Learning/feedback.json" />
+        <option value="$PROJECT_DIR$/MACHINE LEARNING ALGORYTHMS/Reiforcement Learning/Project_SmartHome.py" />
+        <option value="$PROJECT_DIR$/MACHINE LEARNING ALGORYTHMS/Reiforcement Learning/ChoosenIntervals.csv" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="165" />
+    <option name="y" value="37" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SmartHome" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SmartHome" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SmartHome" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SmartHome" type="462c0819:PsiDirectoryNode" />
+              <item name="MACHINE LEARNING ALGORYTHMS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SmartHome" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SmartHome" type="462c0819:PsiDirectoryNode" />
+              <item name="MACHINE LEARNING ALGORYTHMS" type="462c0819:PsiDirectoryNode" />
+              <item name="Reiforcement Learning" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.Project_SmartHome">
+    <configuration name="GeraDados" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SmartHome" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MACHINE LEARNING ALGORYTHMS/Reiforcement Learning" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MACHINE LEARNING ALGORYTHMS/Reiforcement Learning/GeraDados.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="GeraDados_room2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SmartHome" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MACHINE LEARNING ALGORYTHMS/Reiforcement Learning" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MACHINE LEARNING ALGORYTHMS/Reiforcement Learning/GeraDados_room2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Project_SmartHome" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SmartHome" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MACHINE LEARNING ALGORYTHMS/Reiforcement Learning" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MACHINE LEARNING ALGORYTHMS/Reiforcement Learning/Project_SmartHome.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Project_SmartHome" />
+      <item itemvalue="Python.GeraDados" />
+      <item itemvalue="Python.GeraDados_room2" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Project_SmartHome" />
+        <item itemvalue="Python.GeraDados_room2" />
+        <item itemvalue="Python.GeraDados" />
+        <item itemvalue="Python.Project_SmartHome" />
+        <item itemvalue="Python.GeraDados" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="14ced8f3-4a98-48e9-b345-580841ee6e97" name="Default" comment="" />
+      <created>1527603429285</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1527603429285</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.88296044" visible="true" weight="0.19599578" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.32792208" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.45887446" />
+      <window_info id="Structure" order="1" sideWeight="0.11703958" side_tool="true" weight="0.13066386" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32897604" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39978212" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32897604" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.45887446" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.88296044" visible="true" weight="0.09325606" />
+      <window_info id="Structure" order="1" sideWeight="0.11703958" side_tool="true" weight="0.13066386" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32897604" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.32792208" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39978212" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32897604" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/MACHINE LEARNING ALGORYTHMS/Reiforcement Learning/Project_SmartHome.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14620">
+          <caret line="860" column="128" selection-start-line="860" selection-start-column="128" selection-end-line="860" selection-end-column="128" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MACHINE LEARNING ALGORYTHMS/Reiforcement Learning/data.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117997">
+          <caret line="6941" column="15" selection-start-line="6941" selection-start-column="15" selection-end-line="6941" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MACHINE LEARNING ALGORYTHMS/Reiforcement Learning/GeraDados.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-line="75" selection-start-column="49" selection-end-line="75" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python36/Lib/site-packages/numpy/matrixlib/defmatrix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4063">
+          <caret line="239" selection-start-line="239" selection-end-line="239" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MACHINE LEARNING ALGORYTHMS/Reiforcement Learning/Ex1.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117997">
+          <caret line="6941" column="8" selection-start-line="6941" selection-start-column="8" selection-end-line="6942" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MACHINE LEARNING ALGORYTHMS/Reiforcement Learning/Room1.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91375">
+          <caret line="5375" selection-start-line="5375" selection-end-line="5375" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MACHINE LEARNING ALGORYTHMS/Reiforcement Learning/Project_SmartHome.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14620">
+          <caret line="860" column="128" selection-start-line="860" selection-start-column="128" selection-end-line="860" selection-end-column="128" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MACHINE LEARNING ALGORYTHMS/Reiforcement Learning/data.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117997">
+          <caret line="6941" column="15" selection-start-line="6941" selection-start-column="15" selection-end-line="6941" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MACHINE LEARNING ALGORYTHMS/Reiforcement Learning/GeraDados.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-line="75" selection-start-column="49" selection-end-line="75" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python36/Lib/site-packages/numpy/matrixlib/defmatrix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4063">
+          <caret line="239" selection-start-line="239" selection-end-line="239" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MACHINE LEARNING ALGORYTHMS/Reiforcement Learning/Ex1.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117997">
+          <caret line="6941" column="8" selection-start-line="6941" selection-start-column="8" selection-end-line="6942" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MACHINE LEARNING ALGORYTHMS/Reiforcement Learning/Room1.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91375">
+          <caret line="5375" lean-forward="true" selection-start-line="5375" selection-end-line="5375" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MACHINE LEARNING ALGORYTHMS/Reiforcement Learning/Project_SmartHome.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9979">
+          <caret line="587" lean-forward="true" selection-start-line="587" selection-end-line="587" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MACHINE LEARNING ALGORYTHMS/Reiforcement Learning/data.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117844">
+          <caret line="6932" column="20" lean-forward="true" selection-start-line="6932" selection-start-column="20" selection-end-line="6932" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MACHINE LEARNING ALGORYTHMS/Reiforcement Learning/GeraDados.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" lean-forward="true" selection-start-line="75" selection-start-column="49" selection-end-line="75" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MACHINE LEARNING ALGORYTHMS/Reiforcement Learning/Room2.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://C:/Python36/Lib/site-packages/numpy/matrixlib/defmatrix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4063">
+          <caret line="239" selection-start-line="239" selection-end-line="239" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MACHINE LEARNING ALGORYTHMS/Reiforcement Learning/Room1.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97937">
+          <caret line="5761" lean-forward="true" selection-start-line="5761" selection-end-line="5761" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MACHINE LEARNING ALGORYTHMS/Reiforcement Learning/Ex1.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117997">
+          <caret line="6941" column="8" selection-start-line="6941" selection-start-column="8" selection-end-line="6942" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MACHINE LEARNING ALGORYTHMS/Reiforcement Learning/Project_SmartHome.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17527">
+          <caret line="1037" column="12" selection-start-line="1037" selection-start-column="12" selection-end-line="1037" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MACHINE LEARNING ALGORYTHMS/Reiforcement Learning/GeraDados.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="50" column="41" lean-forward="true" selection-start-line="35" selection-start-column="4" selection-end-line="50" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MACHINE LEARNING ALGORYTHMS/Reiforcement Learning/GeraDados_room2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1377">
+          <caret line="82" column="45" selection-start-line="82" selection-start-column="45" selection-end-line="82" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MACHINE LEARNING ALGORYTHMS/Reiforcement Learning/Room2.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://C:/Python36/Lib/site-packages/numpy/matrixlib/defmatrix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4063">
+          <caret line="239" selection-start-line="239" selection-end-line="239" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MACHINE LEARNING ALGORYTHMS/Reiforcement Learning/Ex1.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MACHINE LEARNING ALGORYTHMS/Reiforcement Learning/Room1.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3298">
+          <caret line="194" selection-start-line="194" selection-end-line="194" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MACHINE LEARNING ALGORYTHMS/Reiforcement Learning/Project_SmartHome.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7174">
+          <caret line="422" column="36" selection-start-line="422" selection-start-column="36" selection-end-line="422" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python36/Lib/site-packages/numpy/matrixlib/defmatrix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4063">
+          <caret line="239" selection-start-line="239" selection-end-line="239" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MACHINE LEARNING ALGORYTHMS/Reiforcement Learning/Ex1.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="74562">
+          <caret line="4386" column="36" selection-start-line="4386" selection-start-column="36" selection-end-line="4386" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python36/Lib/site-packages/numpy/matrixlib/defmatrix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4063">
+          <caret line="239" selection-start-line="239" selection-end-line="239" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MACHINE LEARNING ALGORYTHMS/Reiforcement Learning/Room1.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-82238">
+          <caret line="32" column="11" lean-forward="true" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" selection-start-line="6" selection-end-line="9" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-561" />
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_1.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-714">
+          <caret line="6" column="14" lean-forward="true" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MACHINE LEARNING ALGORYTHMS/Reiforcement Learning/RoomTest.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="2665" column="16" lean-forward="true" selection-end-line="2689" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_2.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="14" lean-forward="true" selection-end-line="2689" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MACHINE LEARNING ALGORYTHMS/Reiforcement Learning/BestInterval.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MACHINE LEARNING ALGORYTHMS/Reiforcement Learning/ChoseIntervals.csv" />
+    <entry file="file://$PROJECT_DIR$/MACHINE LEARNING ALGORYTHMS/Reiforcement Learning/rofiles1.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MACHINE LEARNING ALGORYTHMS/Reiforcement Learning/Ex1.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138820">
+          <caret line="6941" column="8" selection-start-line="6941" selection-start-column="8" selection-end-line="6942" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python36/Lib/site-packages/pandas/io/parsers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="1847" selection-start-line="1847" selection-end-line="1847" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MACHINE LEARNING ALGORYTHMS/Reiforcement Learning/data_2.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MACHINE LEARNING ALGORYTHMS/Reiforcement Learning/feedback.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MACHINE LEARNING ALGORYTHMS/Reiforcement Learning/data.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MACHINE LEARNING ALGORYTHMS/Reiforcement Learning/Room2.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MACHINE LEARNING ALGORYTHMS/Reiforcement Learning/BedRoom.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-900" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MACHINE LEARNING ALGORYTHMS/Reiforcement Learning/BedRoom2.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MACHINE LEARNING ALGORYTHMS/Reiforcement Learning/GeraDados.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MACHINE LEARNING ALGORYTHMS/Reiforcement Learning/Project_SmartHome.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="1050" column="40" lean-forward="true" selection-start-line="1050" selection-start-column="40" selection-end-line="1050" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MACHINE LEARNING ALGORYTHMS/Reiforcement Learning/GeraDados_room2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MACHINE LEARNING ALGORYTHMS/Reiforcement Learning/ChoosenIntervals.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="22" selection-start-line="22" selection-end-line="120" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

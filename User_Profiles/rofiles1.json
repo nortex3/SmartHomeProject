@@ -1,0 +1,13 @@
+{
+    "day": 0,
+    "dayWeek": 0,
+    "name": "Alexandre Mirra",
+    "reward_pa_close_shutter": 2,
+    "reward_pa_light_off": 4,
+    "reward_pa_light_on": 3,
+    "reward_pa_open_shutter": 1,
+    "rooms": [
+        "Room1",
+        "Room2"
+    ]
+}
